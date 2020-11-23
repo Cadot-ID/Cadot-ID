@@ -7,6 +7,5 @@
 <a href="https://github.com/Cadot-ID/Webdav"><img title="Webdav" src="https://github-readme-stats.vercel.app/api/pin/?username=Cadot-ID&repo=Webdav&theme=vision-friendly-dark"></a>
 <p align="center">
 <a href="https://fb.com/an.b.font"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.instagram.com/Techabm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-<a href="https://github.com/Tech-abm"><img title="Github" src="https://img.shields.io/badge/Github-TECH--ABM-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Cadot-ID"><img title="Github" src="https://img.shields.io/badge/Github-Cadot--ID-blue?style=for-the-badge&logo=github"></a>
 
