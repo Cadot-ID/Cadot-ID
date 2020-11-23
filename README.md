@@ -1,8 +1,5 @@
-<h1 align="center">
-    ❤Cadot-ID❤
-</h1>
-<h4 align="center">
-![banner](https://user-images.githubusercontent.com/71793332/98446716-f6b42200-2151-11eb-8418-4345809cb7a1.png)
+
+[banner](https://user-images.githubusercontent.com/71793332/98446716-f6b42200-2151-11eb-8418-4345809cb7a1.png)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Cadot-ID&show_icons=true&theme=dark)
 <a href="https://github.com/Cadot-ID/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=Cadot-ID&repo=MBF&theme=vision-friendly-dark"></a>
