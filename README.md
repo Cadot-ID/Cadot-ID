@@ -3,7 +3,7 @@
 </h4>
 
 <h4 align="center">
-<a href="#"><img title="Author by An brush fon" src="https://img.shields.io/badge/AUTHOR%20BY-LOL~%20ANKER-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
+<a href="#"><img title="Author by An brush fon" src="https://img.shields.io/badge/AUTHOR%20BY-An~%20brush~%20fon-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
 <h4 align="center">
 
 <h4 align="center">
