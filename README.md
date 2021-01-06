@@ -1,5 +1,5 @@
 <h4 align="center">
-    🔰HELLO WORLD🔰
+    HANYA UNTUK BERSENANG SENANG
 </h4>
 
 <h4 align="center">
